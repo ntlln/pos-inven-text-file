@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author allen
+ * @author Allen
  */
 public class signin extends javax.swing.JFrame {
 
