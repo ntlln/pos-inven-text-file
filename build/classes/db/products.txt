@@ -1,0 +1,6 @@
+1,Nike Air Max 90,10,7500.0
+2,Jordan I High,10,8000.0
+3,Jordan 13,10,9000.0
+4,Adidas NMD,10,6000.0
+5,Nike Air Max 97,10,7500.0
+6,Nike Air Force 1 Low,10,5500.0
