@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author allen
+ * @author Allen
  */
 public class pos extends javax.swing.JFrame {
 
