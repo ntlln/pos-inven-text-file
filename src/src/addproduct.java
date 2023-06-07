@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author allen
+ * @author Allen
  */
 public class addproduct extends javax.swing.JFrame {
 
