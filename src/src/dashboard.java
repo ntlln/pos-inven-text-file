@@ -8,7 +8,7 @@ import javax.swing.*;
 
 /**
  *
- * @author allen
+ * @author Allen
  */
 public class dashboard extends javax.swing.JFrame {
 
